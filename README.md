@@ -56,15 +56,12 @@ Each dot = a customer.
 
 ---
 
-## 📦 Installation  
+## ▶️ How to Run  
+
+1. Open **VS Code** and load the project folder.  
+2. Open the **terminal** inside VS Code.  
+3. Navigate to the project location using `cd` (for example: `cd Desktop/customer-spend-dashboard`).  
+4. Run the following command to start the app:  
 
 ```bash
-# Clone repo
-git clone https://github.com/your-username/customer-spend-dashboard.git
-cd customer-spend-dashboard
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run Streamlit app
 streamlit run app.py
