@@ -60,7 +60,7 @@ Each dot = a customer.
 
 1. Open **VS Code** and load the project folder.  
 2. Open the **terminal** inside VS Code.  
-3. Navigate to the project location using `cd` (for example: `cd Desktop/customer-spend-dashboard`).  
+3. Navigate to the project location using `cd` (for example: `cd Desktop/app.py`).  
 4. Run the following command to start the app:  
 
 ```bash
