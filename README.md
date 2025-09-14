@@ -60,7 +60,7 @@ Each dot = a customer.
 
 ## ▶️ How to Run  
 
-👉 Open in browser: **[http://localhost:8501](http://localhost:8501)**  
+👉 Click here to run in browser: **[https://customer-lifetime-value-prediction-model-project.streamlit.app/](https://customer-lifetime-value-prediction-model-project.streamlit.app/)**  
 
 ---
 
