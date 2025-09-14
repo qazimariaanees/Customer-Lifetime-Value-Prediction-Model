@@ -60,29 +60,10 @@ Each dot = a customer.
 
 ## ▶️ How to Run  
 
-1. Open **VS Code** and load the project folder.  
-2. Open the **terminal** inside VS Code.  
-3. Navigate to the project location using `cd` (for example: `cd Desktop`).  
-4. Run the following command to start the app:  
+👉 Open in browser: **[http://localhost:8501](http://localhost:8501)**  
 
-```bash
-streamlit run app.py
-Open your browser → http://localhost:8501
+---
 
-👩‍💻 Author
-Developed by Qazi Maria ✨
+## 👩‍💻 Author  
 
-pgsql
-Copy code
-
-⚡ This is **all-in-one, direct copy-paste** README — exactly in the same style you showed me.  
-
-Do you also want me to add **screenshots placeholders** (like `![Dashboard Screenshot](images/dashboard.png)`) so you can later attach UI images?
-
-
-
-
-
-
-
-Ask ChatGPT
+Developed by [**Qazi Maria**](https://www.linkedin.com/in/qazi-maria-anees/) ✨  
